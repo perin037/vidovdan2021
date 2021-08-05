@@ -1,0 +1,11 @@
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\bin\Debug\Semafor.exe.config
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\bin\Debug\Semafor.exe
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\bin\Debug\Semafor.pdb
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.csprojAssemblyReference.cache
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.Form1.resources
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.exe
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.pdb
+C:\Users\Perin\Desktop\turnir\Semafor\Semafor\obj\Debug\Semafor.FormPodesiImena.resources
